@@ -1,7 +1,7 @@
 <%
 	Set oConn = Server.CreateObject("ADODB.Connection")
 
-	cst = "Provider=SQLOLEDB;Server=200.200.200.2;User ID=sa;Password=p455w0rd.;Initial Catalog=MEDINFRASv1.1;"
+	cst = "Provider=SQLOLEDB;Server=192.168.90.4;User ID=sa;Password=p455w0rd.;Initial Catalog=MS_RSSEB;"
 
 	oConn.Mode = adModeRead
 	oConn.Open cst
