@@ -1,0 +1,1475 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pharmacy
+</name>
+</assembly>
+<members>
+<member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.formPOKonsinyasi">
+	<summary>
+formPOKonsinyasi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.ctlGeneral">
+	<summary>
+ctlGeneral control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.RadMenu">
+	<summary>
+RadMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.CSSToolbar">
+	<summary>
+CSSToolbar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.panelHeader">
+	<summary>
+panelHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.cal">
+	<summary>
+cal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.calKirim">
+	<summary>
+calKirim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lbtnKodeSupplier">
+	<summary>
+lbtnKodeSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.txtKodeSupplier">
+	<summary>
+txtKodeSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rfvKodeSupplier">
+	<summary>
+rfvKodeSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblInformasiSupplier">
+	<summary>
+lblInformasiSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.chkPosting">
+	<summary>
+chkPosting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.chkPPn">
+	<summary>
+chkPPn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblNamaSupplier">
+	<summary>
+lblNamaSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblAlamat">
+	<summary>
+lblAlamat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblKota">
+	<summary>
+lblKota control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblNilaiMinimumPemesanan">
+	<summary>
+lblNilaiMinimumPemesanan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblTelepon">
+	<summary>
+lblTelepon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblFax">
+	<summary>
+lblFax control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblKodePos">
+	<summary>
+lblKodePos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblContact">
+	<summary>
+lblContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtCounter">
+	<summary>
+Pemesanan_AddNewRow_txtCounter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lBtnKodeItem">
+	<summary>
+lBtnKodeItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtKodeItem">
+	<summary>
+Pemesanan_AddNewRow_txtKodeItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rfvPemesanan_AddNewRow_txtKodeItem">
+	<summary>
+rfvPemesanan_AddNewRow_txtKodeItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_lblNamaItem">
+	<summary>
+Pemesanan_AddNewRow_lblNamaItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rfvPemesanan_AddNewRow_txtNamaItem">
+	<summary>
+rfvPemesanan_AddNewRow_txtNamaItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtKuantitas">
+	<summary>
+Pemesanan_AddNewRow_txtKuantitas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.cvKuantitas">
+	<summary>
+cvKuantitas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.cvKuantitas1">
+	<summary>
+cvKuantitas1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rfvPemesanan_AddNewRow_txtKuantitas">
+	<summary>
+rfvPemesanan_AddNewRow_txtKuantitas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_ddlSatuan">
+	<summary>
+Pemesanan_AddNewRow_ddlSatuan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtFaktor">
+	<summary>
+Pemesanan_AddNewRow_txtFaktor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtharga">
+	<summary>
+Pemesanan_AddNewRow_txtharga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.cvHarga">
+	<summary>
+cvHarga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.cvHarga1">
+	<summary>
+cvHarga1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rfvPemesanan_AddNewRow_txtHarga">
+	<summary>
+rfvPemesanan_AddNewRow_txtHarga control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_chkPPN">
+	<summary>
+Pemesanan_AddNewRow_chkPPN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtDiskon">
+	<summary>
+Pemesanan_AddNewRow_txtDiskon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rvDiskon">
+	<summary>
+rvDiskon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.cvDiskon">
+	<summary>
+cvDiskon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.rfvPemesanan_AddNewRow_txtDiskon">
+	<summary>
+rfvPemesanan_AddNewRow_txtDiskon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtCatatan">
+	<summary>
+Pemesanan_AddNewRow_txtCatatan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_AddNewRow_txtSpesifikasi">
+	<summary>
+Pemesanan_AddNewRow_txtSpesifikasi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_btnAddNewRow">
+	<summary>
+Pemesanan_btnAddNewRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.Pemesanan_btnDone">
+	<summary>
+Pemesanan_btnDone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.gridPemesanan">
+	<summary>
+gridPemesanan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblCur">
+	<summary>
+lblCur control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblTotal">
+	<summary>
+lblTotal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblCur2">
+	<summary>
+lblCur2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblDiskon">
+	<summary>
+lblDiskon control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblHdDiskonRp">
+	<summary>
+lblHdDiskonRp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblCur3">
+	<summary>
+lblCur3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.txtHdDiskonRp">
+	<summary>
+txtHdDiskonRp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblKetPPn">
+	<summary>
+lblKetPPn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblCur4">
+	<summary>
+lblCur4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblPPn">
+	<summary>
+lblPPn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblCur6">
+	<summary>
+lblCur6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.lblTotalAftPPn">
+	<summary>
+lblTotalAftPPn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.txtcatatan">
+	<summary>
+txtcatatan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.ValidationSummary">
+	<summary>
+ValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.transaksi.Farmasi.Pembelian.PurchaseOrderKonsinyasi.poKonsinyasi.btnUnposting">
+	<summary>
+btnUnposting control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.frmStatRsp">
+	<summary>
+frmStatRsp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.RadMenu">
+	<summary>
+RadMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.panelgridRinci">
+	<summary>
+panelgridRinci control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.calTglResep">
+	<summary>
+calTglResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.ddlAsalPasien">
+	<summary>
+ddlAsalPasien control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.lbtnRefreshResep">
+	<summary>
+lbtnRefreshResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.gridApprovedResep">
+	<summary>
+gridApprovedResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.gridOnProgressedResep">
+	<summary>
+gridOnProgressedResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:StatusResep.gridCompletedResep">
+	<summary>
+gridCompletedResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.pnlTriage">
+	<summary>
+pnlTriage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.imgPatient">
+	<summary>
+imgPatient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaPasien">
+	<summary>
+lblNamaPasien control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblRegistrationNo">
+	<summary>
+lblRegistrationNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNoJobOrder">
+	<summary>
+lblNoJobOrder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaPenunjangMedis">
+	<summary>
+lblNamaPenunjangMedis control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaDokter">
+	<summary>
+lblNamaDokter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNoRM">
+	<summary>
+lblNoRM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblTglLahir">
+	<summary>
+lblTglLahir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblTglRegistrasi">
+	<summary>
+lblTglRegistrasi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblJamRegistrasi">
+	<summary>
+lblJamRegistrasi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblSMF">
+	<summary>
+lblSMF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblAlergi">
+	<summary>
+lblAlergi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblUmurTahun">
+	<summary>
+lblUmurTahun control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblUmurBulan">
+	<summary>
+lblUmurBulan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblUmurHari">
+	<summary>
+lblUmurHari control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblPengirim">
+	<summary>
+lblPengirim control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.pnlInfoKelasRawat">
+	<summary>
+pnlInfoKelasRawat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaKelas">
+	<summary>
+lblNamaKelas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaKelasCharge">
+	<summary>
+lblNamaKelasCharge control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.pnlInfoUnitNonInpatient">
+	<summary>
+pnlInfoUnitNonInpatient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaUnit">
+	<summary>
+lblNamaUnit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblCatatan">
+	<summary>
+lblCatatan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblJenisKelamin">
+	<summary>
+lblJenisKelamin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblPenjamin">
+	<summary>
+lblPenjamin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.pnlInfoRuangRawat">
+	<summary>
+pnlInfoRuangRawat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNamaRuang">
+	<summary>
+lblNamaRuang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblNoTT">
+	<summary>
+lblNoTT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblHariRawat">
+	<summary>
+lblHariRawat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.pnlJenisKunjungan">
+	<summary>
+pnlJenisKunjungan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.PatientBanner.lblJenisKunjungan">
+	<summary>
+lblJenisKunjungan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.litSearchList">
+	<summary>
+litSearchList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.txtMaxRecord">
+	<summary>
+txtMaxRecord control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.txtFilterValue">
+	<summary>
+txtFilterValue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.btnApplyFilter">
+	<summary>
+btnApplyFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.linkApplyFilter">
+	<summary>
+linkApplyFilter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.lblSearchProcedure">
+	<summary>
+lblSearchProcedure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.lblSearchCode">
+	<summary>
+lblSearchCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.lblSearchResults">
+	<summary>
+lblSearchResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.SearchList.grdSearchList">
+	<summary>
+grdSearchList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.SubstitusiObat.frmKonvSat">
+	<summary>
+frmKonvSat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.RadMenu.ScriptManager">
+	<summary>
+ScriptManager control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.RadMenu.lblCompanyName">
+	<summary>
+lblCompanyName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.RadMenu.btnClose">
+	<summary>
+btnClose control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.RadMenu.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.RadMenu.Menu">
+	<summary>
+Menu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:SalinPesananK_Grid_incl.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.frmStatRsp">
+	<summary>
+frmStatRsp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.lblCompanyName">
+	<summary>
+lblCompanyName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.lblCompanyAddress">
+	<summary>
+lblCompanyAddress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.lblDateTime">
+	<summary>
+lblDateTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.lblTlp">
+	<summary>
+lblTlp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.lblWeb">
+	<summary>
+lblWeb control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.panelgridRinci">
+	<summary>
+panelgridRinci control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.gridOnProgressedResep">
+	<summary>
+gridOnProgressedResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:InformasiResep.gridCompletedResep">
+	<summary>
+gridCompletedResep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlNew">
+	<summary>
+TMPnlNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnNew">
+	<summary>
+lbtnNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlSave">
+	<summary>
+TMPnlSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnSave">
+	<summary>
+lbtnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.chkIsAllowAdd">
+	<summary>
+chkIsAllowAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.chkIsAllowEdit">
+	<summary>
+chkIsAllowEdit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlDelete">
+	<summary>
+TMPnlDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnDelete">
+	<summary>
+lbtnDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.chkIsAllowDelete">
+	<summary>
+chkIsAllowDelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlApprove">
+	<summary>
+TMPnlApprove control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnApprove">
+	<summary>
+lbtnApprove control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.chkIsAllowApprove">
+	<summary>
+chkIsAllowApprove control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlVoid">
+	<summary>
+TMPnlVoid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnVoid">
+	<summary>
+lbtnVoid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.chkIsAllowVoid">
+	<summary>
+chkIsAllowVoid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlPrint">
+	<summary>
+TMPnlPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnPrint">
+	<summary>
+lbtnPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.chkIsAllowPrint">
+	<summary>
+chkIsAllowPrint control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlPrevious">
+	<summary>
+TMPnlPrevious control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnPrevious">
+	<summary>
+lbtnPrevious control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.TMPnlNext">
+	<summary>
+TMPnlNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lbtnNext">
+	<summary>
+lbtnNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.CSSToolbar.lblMenuID">
+	<summary>
+lblMenuID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Qis.Web.ReportViewer.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Qis.Web.ReportViewer.rptViewer">
+	<summary>
+rptViewer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.frmSelReg">
+	<summary>
+frmSelReg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.RadMenu">
+	<summary>
+RadMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.pnl_1">
+	<summary>
+pnl_1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.pnl_Order">
+	<summary>
+pnl_Order control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.calTanggal">
+	<summary>
+calTanggal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.txtTotalPasien">
+	<summary>
+txtTotalPasien control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.lbtnRefresh">
+	<summary>
+lbtnRefresh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.Secure.Transaksi.Pelayanan.PenjualanResep.KonfirmasiResep.gridInformasiPasien">
+	<summary>
+gridInformasiPasien control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.frmKontrakPembelian">
+	<summary>
+frmKontrakPembelian control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.lblKodeBarang">
+	<summary>
+lblKodeBarang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.lblNamaBarang">
+	<summary>
+lblNamaBarang control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.panelPemesananAddNewRow">
+	<summary>
+panelPemesananAddNewRow control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.calTglMulai">
+	<summary>
+calTglMulai control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.calTglAkhir">
+	<summary>
+calTglAkhir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.lblID">
+	<summary>
+lblID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.lbtnSupplier">
+	<summary>
+lbtnSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.txtKodeSupplier">
+	<summary>
+txtKodeSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.txtNamaSupplier">
+	<summary>
+txtNamaSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.rfvKontrakPembelian_AddNewRow_txtKodeSupplier">
+	<summary>
+rfvKontrakPembelian_AddNewRow_txtKodeSupplier control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.txtNilaiKontrak">
+	<summary>
+txtNilaiKontrak control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.txtDiskonTunai">
+	<summary>
+txtDiskonTunai control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.ValidationSummary">
+	<summary>
+ValidationSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.btnCancel">
+	<summary>
+btnCancel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:QIS.Web.secure.master.InventoryItem.MasterItem.KontrakSupplierItem.gridKontrakPembelian">
+	<summary>
+gridKontrakPembelian control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:KonfirmasiVoid.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

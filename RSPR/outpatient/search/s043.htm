@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>Search Result: Pemakaian Barang</title>
+		<script src="srchlocc.aspx" language="javascript"></script>
+		<script language=javascript>
+			function initUrl()
+			{
+				main.location = applicationUrl()+'?bt=fpk1&fn=Tanggal&sv=%';
+			}
+			function setDefValue()
+			{		
+				try
+				{
+					main.document.getElementById('txtFilterValueDlg').value = GetTodayDate();
+				}
+					catch (e) {}
+				
+			}
+		</script>
+	</head>
+	<frameset rows="0,*" onload="initUrl();">
+		<frame name="header" src="" scrolling="no" noresize>
+		<frame name="main" src="">
+	</frameset>
+</html>
